@@ -1,0 +1,12 @@
+{
+    "components_dir": "src",
+    "error_entries": {
+        "no_entry": "PcJsApi.__not_entry",
+        "no_parameters": "PcJsApi.__not_parameters",
+        "not_found": "PcJsApi.__not_found",
+        "not_public": "PcJsApi.__not_public",
+        "unknown_error": "PcJsApi.__unknown_error"
+    },
+    "packages": null,
+    "pcjs_version": "v0.1-beta"
+}
